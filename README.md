@@ -56,6 +56,11 @@
 108.  pour la sortie HTML
 3.  par exemple
 
+    1.	Les listes ordonnées s'obtiennent avec un nombre suivi d'un point "." suivi de deux espaces
+    2.  Les nombres utilisés n'ont pas d'importance. 
+    108.  pour la sortie HTML
+    3.  Par exemple :-)
+
 
 ###Les blocs###
 
