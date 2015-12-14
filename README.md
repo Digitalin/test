@@ -34,12 +34,12 @@
 
 ###Les blocs###
 
-    	4 indentations (4 espaces ou une tabulation) en début de ligne créent un bloc de texte.
+    4 indentations (4 espaces ou une tabulation) en début de ligne créent un bloc de texte.
 	
 
-		avec la possibilité de créer un sous-bloc en ajoutant une tabulation ou 4 espaces.
+		avec la possibilité d'ajouter une indentation dans le bloc en ajoutant une tabulation ou 4 espaces.
     
 
-	Pour sortir, il faut une ligne sans indentation
+    Pour sortir, il faut une ligne sans indentation
 
 Sorti du bloc. L'intérêt des blocs est que le code n'est pas 
