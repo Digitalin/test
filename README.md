@@ -37,9 +37,9 @@
 	* sous-point
 	* deuxième sous-point
 +  troisième point
--sans espaces pour voir 
+-  sans espaces pour voir 
 
-    Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix
+	Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix
 
 
 
