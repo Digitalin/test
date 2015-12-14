@@ -24,9 +24,9 @@
 ## Les citations ##
 
 
-> et un bloc de citation avec un 
->> avec une réponse
->>> avec un ou plusieurs > en début de ligne
+> et un bloc de citation avec un > en début de ligne
+>> avec deux pour une réponse
+>>> donc, avec 1 ou de multiples > en début de ligne
 
 ## Les listes ##
 
@@ -39,7 +39,8 @@
 +  troisième point
 -  sans espaces pour voir 
 
-	Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix
+	Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces
+        Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
 
 
 
