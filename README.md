@@ -32,9 +32,11 @@
 
 ### Listes non ordonnées ###
 
-*  premire point
+*  premier point
 *  deuxième point
 	* sous-point
+	* deuxième sous-point
++  troisième point
 
 
 
