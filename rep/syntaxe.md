@@ -1,1 +1,1 @@
-#Syntaxe Markdown
+#Syntaxe Markdown versus HTML
