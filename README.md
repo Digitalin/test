@@ -30,12 +30,16 @@
 
 ## Les listes ##
 
-### Listes à puces ###
+### Listes non ordonnées ###
+
+*  premire point
+*  deuxième point
+	* sous-point
 
 
 
 
-### Listes numérotées ###
+### Listes ordonnées ###
 
 ###Les blocs###
 
@@ -45,6 +49,6 @@
 		avec la possibilité d'ajouter une indentation dans le bloc en ajoutant une tabulation ou 4 espaces.
     
 
-    Pour sortir, il faut une ligne sans indentation
+    Pour sortir d'un bloc, il faut une ligne sans indentation
 
-Sorti du bloc. L'intérêt des blocs est que le code n'est pas 
+Sorti du bloc. L'intérêt des blocs est que le code n'est pas interprêté. 
