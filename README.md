@@ -1,14 +1,20 @@
 #Syntaxe Markdown 
 
 ## Les Titres  ##
-    ## Les Titres  ##
-
-## Titre de niveau 2 ##
-    ## Titre de niveau 2 ##
+    ## Les Titres de niveau 2  ##
 
 ### Titre de niveau 3 ###
     ### Titre de niveau 3 ###
-###### obtenu avec dièses # entourant le titre - de 1 à 6 dièses, 6 pour le plus petit titre ######
+
+#### Titre de niveau 4 ####
+    #### Titre de niveau 4 ####
+
+##### Titre de niveau 5 #####
+    ##### Titre de niveau 5 #####
+
+###### Titre de niveau 6 ######
+    ##### Titre de niveau 6 #####
+
 
 ## Les citations ##
 
