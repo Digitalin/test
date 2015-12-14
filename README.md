@@ -51,6 +51,12 @@
 
 ### Listes ordonnées ###
 
+1.	Les listes ordonnées s'obtiennent avec un nombre suivi d'un point "." suivi de deux espaces
+2.  Les nombres utilisés n'ont pas d'importance
+108.  pour la sortie HTML
+3.  par exemple
+
+
 ###Les blocs###
 
     4 indentations (4 espaces ou une tabulation) en début de ligne créent un bloc de texte.
