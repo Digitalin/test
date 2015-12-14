@@ -28,6 +28,10 @@
 >> avec deux pour une réponse
 >>> donc, avec 1 ou de multiples > en début de ligne
 
+    > et un bloc de citation avec un > en début de ligne
+    >> avec deux pour une réponse
+    >>> donc, avec 1 ou de multiples > en début de ligne
+
 ## Les listes ##
 
 ### Listes non ordonnées ###
