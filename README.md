@@ -41,10 +41,11 @@
 	* sous-point
 	* deuxième sous-point
 +  troisième point
--  sans espaces pour voir 
 
-	Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces
-        Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
+
+
+    Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces.
+    Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
 
 
 
