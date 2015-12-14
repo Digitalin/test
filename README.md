@@ -64,7 +64,7 @@
 		1. encore plus détaillé
 		2. et retour au premier niveau
 2. retour à la liste 
-3. s'obtient en ajoutant au moins trois espaces ou une tabulation. Le formatage est déjà défini.
+3. s'obtient en ajoutant au moins trois espaces ou une tabulation. Le formatage liste sous-liste...(1., i., a.) est déjà défini.
 
 ###Les blocs###
 
