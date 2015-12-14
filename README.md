@@ -56,6 +56,15 @@
 3.  pour la sortie HTML
 4.  par exemple n'importe quel chiffre (108 , 99 sera traduit par sa postion par rapport à la liste, 1 s'il est en premier, 3 s'il est en troisième position
 
+#### Sous-listes ordonnées ####
+
+1.  Liste
+	10.  sous liste
+	12.  détail sous-liste
+		1. encore plus détaillé
+		2. et retour au premier niveau
+2. retour à la liste 
+3. s'obtient en ajoutant au moins trois espaces ou une tabulation. Le formatage est déjà défini.
 
 ###Les blocs###
 
