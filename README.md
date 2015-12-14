@@ -1,19 +1,19 @@
 #Syntaxe Markdown 
 
-## Les Titres 1 ##
+## Les Titres  ##
 
 ## Titre de niveau 2 ##
 
 ### Titre de niveau 3 ###
 
-###### Titre de niveau 6 ######
+###### obtenu avec dièses # entourant le titre - 6 dièses pour le plus petit titre ######
 
 ## Les citations ##
 
 
-> obtenu avec dièses # - 6 dièses pour le plus petit titre
->> et un bloc de citation avec un 
->>> ou plusieurs >
+> et un bloc de citation avec un 
+>> avec une réponse
+>>> avec un ou plusieurs > en début de ligne
 
 ## Les listes ##
 
@@ -21,4 +21,4 @@
 
 ### Listes numérotées ###
 
-###Blocs###
+###Les blocs###
