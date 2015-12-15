@@ -172,8 +172,8 @@ Sorti du bloc.
 
 >L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés. Il est également possible d'entourer une étendue de code à l'intérieur d'un paragraphe. 
 
-> Par exemple :
-Pour retrouver des fichiers d'un certain type désiminés dans des sous répertoires afin de les regrouper dans un répertoire désigné, utilisez la commande `find -type f -name "*.mp4" -exec cp {} ~/mon_repertoire_destination/ \;` et vous aurez tous vos fichiers mp4 copiés dans ce nouveau répertoire. 
+> Un exemple :
+Pour regrouper dans un seul répertoire des fichiers flac répartis dans des sous répertoires, utilisez la commande `find -type f -name "*.flac" -exec cp {} ~/mon_repertoire_destination/ \;` et vous aurez tous vos fichiers flac copiés dans ce nouveau répertoire. 
 
 Il suffit d'entourer votre commande avec un guillemet  oblique\` `Alt Gr + 7`
 
