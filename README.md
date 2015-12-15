@@ -1,8 +1,15 @@
 #Memo Syntaxe Markdown 
 ![logo Markdown](/images/Markdown.png)
 
+    
+    ![logo Markdown](/images/Markdown.png)
+
 
 Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
+
+    Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
+
+
 
 ## Les Titres en Setext  ##
 
