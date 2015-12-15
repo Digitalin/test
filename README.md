@@ -1,6 +1,23 @@
-#Syntaxe Markdown 
+#Memo Syntaxe Markdown 
 
-## Les Titres  ##
+## Les Titres en Setext  ##
+
+Titre de niveau 1
+=================
+
+Titre de niveau 2 
+-----------------
+
+    Titre de niveau 1
+    =================
+
+    Titre de niveau 2 
+    -----------------
+
+Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre
+
+
+## Les Titres en atx  ##
 
 # Titre de niveau 1#
     # Titre de niveau 1  #
@@ -20,6 +37,9 @@
 ###### Titre de niveau 6 ######
     ##### Titre de niveau 6 #####
 
+## Sauts de ligne ##
+
+> pour faire un saut de ligne, il suffit de finir une ligne par deux espaces puis de taper sur Entrée. 
 
 ## Les citations ##
 
