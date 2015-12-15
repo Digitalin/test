@@ -173,8 +173,11 @@ Pour aller sur le site de [Dokuwiki](https://dokuwiki.org "Un wiki cool")
     Pour aller sur le site de [Dokuwiki](https://dokuwiki.org "Un wiki cool")
 
 Pour afficher une image externe 
-![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png)
+![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png "Travaux en cours")
 
-    ![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png)
+    ![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png"Travaux en cours")
+
+*le langage Markdown ne permet pas de spécifier une taille d'image ou son emplacement par rapport au texte. En cas de besoin, il faudra utiliser une balise HTML.
 
 ### Étiquettes des liens ###
+
