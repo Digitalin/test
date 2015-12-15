@@ -17,6 +17,8 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
   - [ ] Ajouter les [fonctionnalités supplémentaires Markdown sur Github](https://help.github.com/articles/github-flavored-markdown/)
   - [ ] Étiquettes de liens
   - [ ] TOC ?
+  
+- [ ] ##liens-externes
    
 ## Introduction  ##
 
