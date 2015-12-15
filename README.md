@@ -137,6 +137,8 @@ Sorti du bloc.
 > Par exemple :
 Pour retrouver des fichiers d'un certain type désiminés dans des sous répertoires afin de les regrouper dans un répertoire désigné, utilisez la commande `find -type f -name "*.mp4" -exec cp {} ~/mon_repertoire_destination/ \;` et vous aurez tous vos fichiers mp4 copiés dans ce nouveau répertoire. 
 
+Il suffit d'entourer votre commande avec un guillemet  oblique\` `Alt Gr + 7`
+
 <p>&nbsp; </p>
 
 ## Emphase du texte et caractère d'échappement ##
