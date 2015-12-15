@@ -76,4 +76,6 @@
 
     Pour sortir d'un bloc, il faut une ligne sans indentation
 
-Sorti du bloc. L'intérêt des blocs est que le code n'est pas interprêté. 
+Sorti du bloc. 
+
+>L'intérêt des blocs est que le code n'est pas interprêté. 
