@@ -37,9 +37,13 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre
 ###### Titre de niveau 6 ######
     ##### Titre de niveau 6 #####
 
-## Sauts de ligne ##
+## Sauts de ligne et ligne horizontale ##
 
 > pour faire un saut de ligne, il suffit de finir une ligne par deux espaces puis de taper sur Entrée. 
+
+> une ligne horizontale s'obtient avec trois ***
+
+***
 
 ## Les citations ##
 
