@@ -82,15 +82,8 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 +  troisième point
 -  quatrième point
 
->    *  premier point
->    *  deuxième point
->	    * sous-point
->	    * deuxième sous-point
->    +  troisième point
->    -  quatrième point
 
-    >Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces.
-    >Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
+>Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces. Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
 
 
 
