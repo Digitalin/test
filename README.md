@@ -50,6 +50,8 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 Github a ajouté des fonctionnalités au langage Markdown qui seront détaillés à part ou signalés comme tels.
 
 <p>&nbsp; </p>
+[haut](#todo)
+
 
 ## Les Titres ##
 
@@ -94,7 +96,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
     ##### Titre de niveau 6 #####
 
 <p>&nbsp; </p>
-
+[haut](#todo)
 ## Sauts de ligne et ligne horizontale ##
 
 > pour faire un saut de ligne, il suffit de finir une ligne par deux espaces puis de taper sur Entrée. 
@@ -118,7 +120,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
     >>> donc, avec 1 ou de multiples > en début de ligne
 
 <p>&nbsp; </p>
-
+[haut](#todo)
 ## Les listes ##
 
 ### Listes non ordonnées ###
@@ -142,7 +144,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 99.  pour la sortie HTML
 4.  n'importe quel chiffre sera traduit en rapport de sa position dans la liste, 1 s'il est en premier, 3 s'il est en troisième position, et non par sa valeur en tant que nombre. Vous pouvez commencer votre liste avec 1099 si cela vous chante, il sera traduit en 1. Cette liste est créée pour le test avec dans l'ordre 1, puis 108 puis 99 puis 4. 
 
-
+[haut](#todo)
 
 #### Sous-listes ordonnées ####
 
@@ -176,7 +178,7 @@ Pour retrouver des fichiers d'un certain type désiminés dans des sous réperto
 Il suffit d'entourer votre commande avec un guillemet  oblique\` `Alt Gr + 7`
 
 <p>&nbsp; </p>
-
+[haut](#todo)
 ## Caractère d'échappement et emphase du texte ##
 
 ### Caractère d'échappement ###
@@ -206,7 +208,7 @@ on utilisera la barre oblique inverse \\
     ~~barré~~ (uniquement sur Github)
 
 <p>&nbsp; </p>
-
+[haut](#todo)
 ## Les liens ##
 
 Les liens font référence à des ressources internes ou externes. Pour les liens internes faisant référence à une ressource locale sur le serveur, il est possible d'utiliser une adresse relative, que ce soit pour un lien de page ou d'image. Il est également possible d'affecter une étiquette à un lien et de l'appeler n'importe où dans la page (comme une ancre ou note de bas de page ?). 
@@ -238,7 +240,7 @@ Pour afficher une image externe
     ![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png"Travaux en cours")
 
 *le langage Markdown ne permet pas de spécifier une taille d'image ou son emplacement par rapport au texte. En cas de besoin, il faudra utiliser une balise HTML.*
-
+[haut](#todo)
 ### Étiquettes des liens ###
 
 <p>&nbsp; </p>
