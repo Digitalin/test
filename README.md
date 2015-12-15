@@ -1,6 +1,6 @@
 #Memo Syntaxe Markdown 
 
-[Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
+Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 
 ## Les Titres en Setext  ##
 
