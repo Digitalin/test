@@ -12,6 +12,8 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 
+***
+##TODO
 - [ ] Page à compléter 
   - [x] Memo 
   - [ ] Ajouter les [fonctionnalités supplémentaires Markdown de Github](https://help.github.com/articles/github-flavored-markdown/)
