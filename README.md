@@ -16,12 +16,31 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
   - [x] Memo 
   - [ ] Ajouter les [fonctionnalités supplémentaires Markdown de Github](https://help.github.com/articles/github-flavored-markdown/)
   - [ ] Étiquettes de liens
-  - [ ] TOC ?
+
  
 ##Table des matières 
 
   * [Introduction](#introduction)
-   
+  * [Les titres](#les-titres-en-setext)
+    * [Les titres en Setext](#les-titres-en-setext)
+    * [Les titres en atx](#les-titres-en-atx)
+  * [Les Sauts de ligne et ligne horizontale](#sauts-de-ligne-et-ligne-horizontale)  
+  * [Les citations](#les-citations)
+  * [Les listes](#les-listes)
+    * [Les listes  non ordonnées](#listes-non-ordonnées)
+    * [Les listes  ordonnées](#listes-ordonnées)
+        * [Les sous-listes  ordonnées](#sous-listes-ordonnées)
+  * [Les blocs de texte et code dans le texte](#les-blocs-de-texte-et-code-dans-le-texte)
+  * [Emphase du texte et caractère d'échappement](#emphase-du-texte-et-caractère-déchappement)
+    * [Caractère d'échappement](#caractère-déchappement)
+    * [Emphase du texte](#emphase-du-texte) 
+  * [Les liens](#les-liens) 
+    * [Liens internes](#liens-internes) 
+    * [Liens externes](#liens-externes)
+    * [Étiquette des liens](#Étiquettes-des-liens)
+  * [Aérer le texte](#aérer-le-texte)  
+    
+     
 ## Introduction  ##
 
 <u>John Gruber</u> a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. De plus, il accepte toute balise HTML. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, la syntaxe Markdown.
@@ -29,7 +48,9 @@ Github a ajouté des fonctionnalités au langage Markdown qui seront détaillés
 
 <p>&nbsp; </p>
 
-## Les Titres en Setext  ##
+## Les Titres ##
+
+### Les Titres en Setext  ###
 
 Titre de niveau 1
 =================
@@ -47,7 +68,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 
 <p>&nbsp; </p>
 
-## Les Titres en atx  
+### Les Titres en atx  
 
 # Titre de niveau 1
     # Titre de niveau 1  
@@ -218,7 +239,7 @@ Pour afficher une image externe
 ### Étiquettes des liens ###
 
 <p>&nbsp; </p>
-## Aérer son texte ##
+## Aérer le texte ##
 
         <p>&nbsp; </p>
    
