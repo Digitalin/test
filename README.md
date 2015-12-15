@@ -11,14 +11,13 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 
 <p>&nbsp; </p>
 <p>&nbsp; </p>
-- [ ] Voir possibilités @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
+
 - [ ] Page à compléter 
   - [x] Memo 
-  - [ ] Ajouter les [fonctionnalités supplémentaires Markdown sur Github](https://help.github.com/articles/github-flavored-markdown/)
+  - [ ] Ajouter les [fonctionnalités supplémentaires Markdown de Github](https://help.github.com/articles/github-flavored-markdown/)
   - [ ] Étiquettes de liens
   - [ ] TOC ?
   
-- [ ] #liens-externes
    
 ## Introduction  ##
 
@@ -175,6 +174,7 @@ on utilisera la barre oblique inverse \\
     __Gras__
 
 ~~ texte barré ~~
+
     ~~barré~~ (uniquement sur Github)
 
 <p>&nbsp; </p>
