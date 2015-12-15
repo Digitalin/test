@@ -12,7 +12,7 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 
 ## Introduction  ##
 
-John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisement dans un format en texte plein, sans être distrait par les balises de formatage. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, à utiliser la syntaxe Markdown.
+John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, à utiliser la syntaxe Markdown.
 
 
 ## Les Titres en Setext  ##
@@ -117,5 +117,22 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 
 Sorti du bloc. 
 
->L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprêtés.
+>L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés.
 
+## Les liens ##
+
+Les liens font référence à des ressources internes ou externes. Pour les liens internes faisant référence à une ressource locale sur le serveur, il est possible d'utiliser une adresse relative, que ce soit pour un lien de page ou d'image. Il est également possible d'affecter une étiquette à un lien et de l'appeler n'importe où dans la page (comme une ancre ou note de bas de page ?). 
+
+###Les liens internes ###
+
+    Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
+> pour une page locale dans le répertoire "rep" avec une description au survol de la souris  donnera ;
+Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
+
+    ![logo Markdown](/images/Markdown.png)
+> affichera l'image Markdonw se trouvant dans le répertoire image
+Le lien est entre crochets et l'adresse entre parenthèses avec une description possible entre guillemets. Pour les images, il faut ajouter ! un point d'exclamation devant.
+  
+### Liens externes ###
+
+Pour faire des liens
