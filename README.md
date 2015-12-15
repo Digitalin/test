@@ -78,4 +78,5 @@
 
 Sorti du bloc. 
 
->L'intérêt des blocs est que le code n'est pas interprêté. 
+>L'intérêt des blocs est que syntaxe Markdown et code ne sont pas interprêtés.
+
