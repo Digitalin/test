@@ -17,7 +17,7 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
   - [ ] Ajouter les [fonctionnalités supplémentaires Markdown de Github](https://help.github.com/articles/github-flavored-markdown/)
   - [ ] Étiquettes de liens
 
- 
+*** 
 ##Table des matières 
 
   * [Introduction](#introduction)
@@ -39,7 +39,8 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
     * [Liens externes](#liens-externes)
     * [Étiquette des liens](#Étiquettes-des-liens)
   * [Aérer le texte](#aérer-le-texte)  
-    
+ 
+ ***   
      
 ## Introduction  ##
 
@@ -174,7 +175,7 @@ Il suffit d'entourer votre commande avec un guillemet  oblique\` `Alt Gr + 7`
 
 <p>&nbsp; </p>
 
-## Emphase du texte et caractère d'échappement ##
+## Caractère d'échappement et emphase du texte ##
 
 ### Caractère d'échappement ###
 
