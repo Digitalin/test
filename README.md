@@ -94,10 +94,6 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 99.  pour la sortie HTML
 4.  par exemple n'importe quel chiffre (108 , 99 sera traduit par sa postion par rapport à la liste, 1 s'il est en premier, 3 s'il est en troisième position
 
->1.  Les listes ordonnées s'obtiennent avec un nombre suivi d'un point "." suivi d'au moins deux espaces
->108.  Les nombres utilisés n'ont pas d'importance
->99.  pour la sortie HTML
->4.  par exemple n'importe quel chiffre (108 , 99 sera traduit par sa postion par rapport à la liste, 1 s'il est en premier, 3 s'il est en troisième position
 
 #### Sous-listes ordonnées ####
 
