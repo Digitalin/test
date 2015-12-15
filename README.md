@@ -12,8 +12,6 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 
-[Introduction](README.md#introduction)
-[Liens externes](README.md#liens-externes)
 
 ## Introduction  ##
 
