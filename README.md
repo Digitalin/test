@@ -105,7 +105,8 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 1.  Les listes ordonnées s'obtiennent avec un nombre suivi d'un point "." suivi d'au moins deux espaces
 108.  Les nombres utilisés n'ont pas d'importance
 99.  pour la sortie HTML
-4.  par exemple n'importe quel chiffre (108 , 99 e.g.) sera traduit par sa position par rapport à la liste, 1 s'il est en premier, 3 s'il est en troisième position, etc.
+4.  n'importe quel chiffre sera traduit en rapport de sa position dans la liste, 1 s'il est en premier, 3 s'il est en troisième position, et non par sa valeur en tant que nombre. Vous pouvez commencer votre liste avec 1099 si cela vous chante, il sera traduit en 1. Cette liste est créée pour le test avec dans l'ordre 1, puis 108 puis 99 puis 4. 
+
 
 
 #### Sous-listes ordonnées ####
