@@ -12,7 +12,7 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 
 ## Introduction  ##
 
-John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, la syntaxe Markdown.
+John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. De plus, il accepte toute balise HTML. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, la syntaxe Markdown.
 
 
 ## Les Titres en Setext  ##
@@ -37,8 +37,10 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 # Titre de niveau 1
     # Titre de niveau 1  
 
-## Titre de niveau 2  ##
-    ## Titre de niveau 2  ##
+## Titre de niveau 2  
+    ## Titre de niveau 2  
+
+*ou en entourant du même nombre de signes # le titre*
 
 ### Titre de niveau 3 ###
     ### Titre de niveau 3 ###
@@ -119,12 +121,29 @@ Sorti du bloc.
 
 >L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés.
 
-## Formatage du texte et caractère d'échappement ##
+## Emphase du texte et caractère d'échappement ##
 
 ### Caractère d'échappement ###
 
-La barre oblique inverse \ 
+La barre oblique inverse \\ permet d'échapper des caractères qui seraient interprétés autrement comme du langage Markdown. Pour avoir littéralement ces caractères : 
 
+     \  `  *  _  {}  [] () # + - . ! 
+
+on utilisera la barre oblique inverse \\ 
+
+### Emphase du texte ###
+
+*Italique*
+
+    *Italique*
+
+    _Italique_
+
+** Gras **
+    
+    ** Gras **
+
+    __ Gras __
 
 
 ## Les liens ##
