@@ -1,4 +1,6 @@
 #Memo Syntaxe Markdown 
+![logo Markdown](/images/Markdown.png)
+
 
 Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 
