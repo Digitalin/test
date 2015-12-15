@@ -151,7 +151,7 @@ on utilisera la barre oblique inverse \\
 
 Les liens font référence à des ressources internes ou externes. Pour les liens internes faisant référence à une ressource locale sur le serveur, il est possible d'utiliser une adresse relative, que ce soit pour un lien de page ou d'image. Il est également possible d'affecter une étiquette à un lien et de l'appeler n'importe où dans la page (comme une ancre ou note de bas de page ?). 
 
-###Les liens internes ###
+###Liens internes ###
 
     Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 > pour une page locale dans le répertoire "rep" avec une description au survol de la souris  donnera :
@@ -177,7 +177,7 @@ Pour afficher une image externe
 
     ![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png"Travaux en cours")
 
-*le langage Markdown ne permet pas de spécifier une taille d'image ou son emplacement par rapport au texte. En cas de besoin, il faudra utiliser une balise HTML.
+*le langage Markdown ne permet pas de spécifier une taille d'image ou son emplacement par rapport au texte. En cas de besoin, il faudra utiliser une balise HTML.*
 
 ### Étiquettes des liens ###
 
