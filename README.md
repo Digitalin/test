@@ -209,6 +209,7 @@ on utilisera la barre oblique inverse \\
 
 <p>&nbsp; </p>
 [haut](#todo)
+
 ## Les liens ##
 
 Les liens font référence à des ressources internes ou externes. Pour les liens internes faisant référence à une ressource locale sur le serveur, il est possible d'utiliser une adresse relative, que ce soit pour un lien de page ou d'image. Il est également possible d'affecter une étiquette à un lien et de l'appeler n'importe où dans la page (comme une ancre ou note de bas de page ?). 
@@ -246,6 +247,8 @@ Pour afficher une image externe
 ### Étiquettes des liens ###
 
 <p>&nbsp; </p>
+[haut](#todo)
+
 ## Aérer le texte ##
 
         <p>&nbsp; </p>
