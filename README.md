@@ -9,6 +9,8 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 
     Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 
+<p>&nbsp; </p>
+
 
 ## Introduction  ##
 
