@@ -199,6 +199,6 @@ Pour afficher une image externe
 <p>&nbsp; </p>
 ## Aérer son texte ##
 
-> <p>&nbsp; </p>
+        <p>&nbsp; </p>
    
 >Cette balise permet d'aérer le texte.
