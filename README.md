@@ -12,7 +12,7 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 
 ## Introduction  ##
 
-John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, à utiliser la syntaxe Markdown.
+John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, la syntaxe Markdown.
 
 
 ## Les Titres en Setext  ##
