@@ -141,9 +141,10 @@ on utilisera la barre oblique inverse \\
 
 **Gras**
     
-    ** Gras **
+    **Gras**
 
-    __ Gras __
+    __Gras__
+
 
 
 ## Les liens ##
