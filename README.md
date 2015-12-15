@@ -159,7 +159,7 @@ Les liens font référence à des ressources internes ou externes. Pour les lien
 Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 
     ![logo Markdown](/images/Markdown.png)
-> affichera l'image Markdown.png se trouvant dans le répertoire image
+> affichera l'image Markdown.png se trouvant dans le répertoire image comme en haut de page.
 
 Le lien est entre crochets et l'adresse est entre parenthèses avec une description possible entre guillemets. 
 
@@ -171,5 +171,10 @@ Pour les images, il faut ajouter ! un point d'exclamation devant.
 Pour aller sur le site de [Dokuwiki](https://dokuwiki.org "Un wiki cool")   
 
     Pour aller sur le site de [Dokuwiki](https://dokuwiki.org "Un wiki cool")
+
+Pour afficher une image externe 
+![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png)
+
+    ![image travaux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Warning_icon.png)
 
 ### Étiquettes des liens ###
