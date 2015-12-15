@@ -139,7 +139,7 @@ on utilisera la barre oblique inverse \\
 
     _Italique_
 
-** Gras **
+**Gras**
     
     ** Gras **
 
