@@ -12,8 +12,8 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
 <p>&nbsp; </p>
 <p>&nbsp; </p>
 
-* auto-gen TOC:
-{:toc}
+[Introduction](test#introduction)
+[Liens externes](test#liens-externes)
 
 ## Introduction  ##
 
