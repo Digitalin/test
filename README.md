@@ -1,5 +1,7 @@
 #Memo Syntaxe Markdown 
 
+[Syntaxe Markdown Versus Html](rep/syntaxe.md "En cours d'écriture")
+
 ## Les Titres en Setext  ##
 
 Titre de niveau 1
@@ -14,7 +16,7 @@ Titre de niveau 2
     Titre de niveau 2 
     -----------------
 
-Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre
+Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. Le nombre importe peu.
 
 
 ## Les Titres en atx  ##
@@ -48,12 +50,12 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre
 ## Les citations ##
 
 
-> et un bloc de citation avec un > en début de ligne
->> avec deux pour une réponse
+> et un bloc de citation avec un chevron > en début de ligne
+>> avec deux pour une réponse comme dans les courriels
 >>> donc, avec 1 ou de multiples > en début de ligne
 
-    > et un bloc de citation avec un > en début de ligne
-    >> avec deux pour une réponse
+    > et un bloc de citation avec un chevron > en début de ligne
+    >> avec deux pour une réponse comme dans les courriels
     >>> donc, avec 1 ou de multiples > en début de ligne
 
 ## Les listes ##
@@ -102,5 +104,5 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre
 
 Sorti du bloc. 
 
->L'intérêt des blocs est que syntaxe Markdown et code ne sont pas interprêtés.
+>L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprêtés.
 
