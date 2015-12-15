@@ -18,7 +18,7 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
   - [ ] Étiquettes de liens
   - [ ] TOC ?
   
-- [ ] ##liens-externes
+- [ ] #liens-externes
    
 ## Introduction  ##
 
