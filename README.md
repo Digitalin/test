@@ -120,7 +120,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 
 <p>&nbsp; </p>
 
-##Les blocs##
+##Les blocs de texte et code dans le texte ##
 
     4 indentations (4 espaces ou une tabulation) en début de ligne créent un bloc de texte.
 	
@@ -132,7 +132,10 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 
 Sorti du bloc. 
 
->L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés.
+>L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés. Il est également possible d'entourer une étendue de code à l'intérieur d'un paragraphe. 
+
+> Par exemple :
+Pour retrouver des fichiers d'un certain type désiminés dans des sous répertoires afin de les regrouper dans un répertoire désigné, utilisez la commande `find -type f -name "*.mp4" -exec cp {} ~/mon_repertoire_destination/ \;` et vous aurez tous vos fichiers mp4 copiés dans ce nouveau répertoire. 
 
 <p>&nbsp; </p>
 
