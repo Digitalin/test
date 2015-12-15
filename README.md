@@ -10,12 +10,13 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
     Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 
 <p>&nbsp; </p>
-
+<p>&nbsp; </p>
 
 ## Introduction  ##
 
 John Gruber a créé le langage Markdown est 2004, avec la participation significative de Aaron Swartz pour la syntaxe. Ce langage permet d'écrire et de lire aisément dans un format en texte plein, sans être distrait par les balises de formatage. De plus, il accepte toute balise HTML. Sa forme est très proche de la syntaxe wiki comme celle de Dokuwiki et il est donc facile de passer de l'un à l'autre. En fait, cet espace de test est pour moi l'occasion d'apprendre à utiliser les commandes Git et, en faisant d'une pierre deux coups, la syntaxe Markdown.
 
+<p>&nbsp; </p>
 
 ## Les Titres en Setext  ##
 
@@ -56,6 +57,8 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 ###### Titre de niveau 6 ######
     ##### Titre de niveau 6 #####
 
+<p>&nbsp; </p>
+
 ## Sauts de ligne et ligne horizontale ##
 
 > pour faire un saut de ligne, il suffit de finir une ligne par deux espaces puis de taper sur Entrée. 
@@ -63,6 +66,8 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 > une ligne horizontale s'obtient avec au moins trois *** 
 
 ***
+<p>&nbsp; </p>
+
 
 ## Les citations ##
 
@@ -74,6 +79,8 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
     > et un bloc de citation avec un chevron > en début de ligne
     >> avec deux pour une réponse comme dans les courriels
     >>> donc, avec 1 ou de multiples > en début de ligne
+
+<p>&nbsp; </p>
 
 ## Les listes ##
 
@@ -89,7 +96,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 
 >Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces. Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
 
-
+<p>&nbsp; </p>
 
 ### Listes ordonnées ###
 
@@ -123,6 +130,8 @@ Sorti du bloc.
 
 >L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés.
 
+<p>&nbsp; </p>
+
 ## Emphase du texte et caractère d'échappement ##
 
 ### Caractère d'échappement ###
@@ -147,7 +156,7 @@ on utilisera la barre oblique inverse \\
 
     __Gras__
 
-
+<p>&nbsp; </p>
 
 ## Les liens ##
 
@@ -183,3 +192,9 @@ Pour afficher une image externe
 
 ### Étiquettes des liens ###
 
+<p>&nbsp; </p>
+## Aérer son texte ##
+
+   <p>&nbsp; </p>
+   
+>Cette balise permet d'aérer le texte.
