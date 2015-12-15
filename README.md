@@ -32,10 +32,10 @@ Titre de niveau 2
 Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. Le nombre importe peu.
 
 
-## Les Titres en atx  ##
+## Les Titres en atx  
 
-# Titre de niveau 1#
-    # Titre de niveau 1  #
+# Titre de niveau 1
+    # Titre de niveau 1  
 
 ## Titre de niveau 2  ##
     ## Titre de niveau 2  ##
@@ -119,6 +119,14 @@ Sorti du bloc.
 
 >L'intérêt des blocs est que la syntaxe Markdown et n'importe quel code ne sont pas interprétés.
 
+## Formatage du texte et caractère d'échappement ##
+
+### Caractère d'échappement ###
+
+La barre oblique inverse \ 
+
+
+
 ## Les liens ##
 
 Les liens font référence à des ressources internes ou externes. Pour les liens internes faisant référence à une ressource locale sur le serveur, il est possible d'utiliser une adresse relative, que ce soit pour un lien de page ou d'image. Il est également possible d'affecter une étiquette à un lien et de l'appeler n'importe où dans la page (comme une ancre ou note de bas de page ?). 
@@ -126,13 +134,22 @@ Les liens font référence à des ressources internes ou externes. Pour les lien
 ###Les liens internes ###
 
     Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
-> pour une page locale dans le répertoire "rep" avec une description au survol de la souris  donnera ;
+> pour une page locale dans le répertoire "rep" avec une description au survol de la souris  donnera :
+
 Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'écriture")
 
     ![logo Markdown](/images/Markdown.png)
-> affichera l'image Markdonw se trouvant dans le répertoire image
-Le lien est entre crochets et l'adresse entre parenthèses avec une description possible entre guillemets. Pour les images, il faut ajouter ! un point d'exclamation devant.
+> affichera l'image Markdown.png se trouvant dans le répertoire image
+
+Le lien est entre crochets et l'adresse est entre parenthèses avec une description possible entre guillemets. 
+
+Pour les images, il faut ajouter ! un point d'exclamation devant.
   
 ### Liens externes ###
 
-Pour faire des liens
+
+Pour aller sur le site de [Dokuwiki](https://dokuwiki.org "Un wiki cool")   
+
+    Pour aller sur le site de [Dokuwiki](https://dokuwiki.org "Un wiki cool")
+
+### Étiquettes des liens ###
