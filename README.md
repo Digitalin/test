@@ -115,9 +115,9 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 >> avec deux pour une réponse comme dans les courriels
 >>> donc, avec 1 ou de multiples > en début de ligne
 
-    > et un bloc de citation avec un chevron > en début de ligne
+    > et un bloc de citation avec un chevron en début de ligne
     >> avec deux pour une réponse comme dans les courriels
-    >>> donc, avec 1 ou de multiples > en début de ligne
+    >>> donc, avec 1 ou de multiples chevrons en début de ligne
 
 <p>&nbsp; </p>
 [TOC](#table-des-matières)
@@ -187,7 +187,7 @@ La barre oblique inverse \\ permet d'échapper des caractères qui seraient inte
 
      \  `  *  _  {}  [] () # + - . ! 
 
-on utilisera la barre oblique inverse \\ 
+on utilisera la barre oblique inverse \\ devant.
 
 ### Emphase du texte ###
 
@@ -227,6 +227,10 @@ Voir mon projet de page [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours
 Le lien est entre crochets et l'adresse est entre parenthèses avec une description possible entre guillemets. 
 
 Pour les images, il faut ajouter ! un point d'exclamation devant.
+
+> Faire un lien vers une section d'un document en utilisant les titres
+
+    [TOC](#table-des-matières)
   
 ### Liens externes ###
 
