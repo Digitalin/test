@@ -34,6 +34,7 @@ Titre de niveau 2
 
 Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. Le nombre importe peu.
 
+<p>&nbsp; </p>
 
 ## Les Titres en atx  
 
@@ -66,6 +67,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 > une ligne horizontale s'obtient avec au moins trois *** 
 
 ***
+
 <p>&nbsp; </p>
 
 
@@ -96,7 +98,7 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 
 >Les listes non ordonnées s'obtiennent en démarrant la ligne avec le signe * ou + ou - au choix suivi d'au moins deux espaces. Pour faire des sous-listes, ajouter une tabulation ou plusieurs espaces.
 
-<p>&nbsp; </p>
+
 
 ### Listes ordonnées ###
 
@@ -116,7 +118,9 @@ Il suffit de souligner avec plusieurs caractères == ou -- pour avoir un titre. 
 2. retour à la liste 
 3. s'obtient en ajoutant au moins trois espaces ou une tabulation. Le formatage liste sous-liste...(1., i., a.) est déjà défini.
 
-###Les blocs###
+<p>&nbsp; </p>
+
+##Les blocs##
 
     4 indentations (4 espaces ou une tabulation) en début de ligne créent un bloc de texte.
 	
@@ -195,6 +199,6 @@ Pour afficher une image externe
 <p>&nbsp; </p>
 ## Aérer son texte ##
 
-   <p>&nbsp; </p>
+> <p>&nbsp; </p>
    
 >Cette balise permet d'aérer le texte.
