@@ -18,7 +18,7 @@ Projet d'écriture : [Syntaxe Markdown Versus HTML](rep/syntaxe.md/ "En cours d'
   - [x] Memo 
   - [ ] Ajouter les [fonctionnalités supplémentaires Markdown de Github](https://help.github.com/articles/github-flavored-markdown/)
   - [ ] Étiquettes de liens
-
+  - [ ] Intégrer lien vers Easy TOC creation [by ekalinin](https://github.com/ekalinin/github-markdown-toc)
 *** 
 ##Table des matières 
 
